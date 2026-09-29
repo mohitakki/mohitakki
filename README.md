@@ -1,7 +1,7 @@
 # Hi, I'm Mohit 👋
 
 **Full-stack engineer building AI agents, MCP tooling, and production web/mobile apps.**
-About 2.5 years shipping with React, React Native and TypeScript. Now going deeper into AI engineering and Rust.
+4+ years shipping with React, React Native and TypeScript. Now going deeper into AI engineering and Rust.
 
 ## ⚖️ Building LawyerOS
 
@@ -35,5 +35,5 @@ About 2.5 years shipping with React, React Native and TypeScript. Now going deep
 
 [![LawyerOS](https://img.shields.io/badge/LawyerOS-lawyeros.in-1F2937)](https://lawyeros.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumarbhullan)
-[![X](https://img.shields.io/badge/X-@mohitkaybhullan-000000?logo=x&logoColor=white)](https://x.com/mohitkaybhullan)
+[![X](https://img.shields.io/badge/X-@mkbhullan-000000?logo=x&logoColor=white)](https://x.com/mkbhullan)
 [![Email](https://img.shields.io/badge/Email-reach%20me-D14836?logo=gmail&logoColor=white)](mailto:mohitkumarakki@gmail.com)
